@@ -1,0 +1,29 @@
+body {
+    background: url(des.jpg) no-repeat center center fixed;
+	background-size:cover;
+
+        font-family:forte;
+		font-size:300%;
+        text-align:center;
+        text-color: black;
+}
+li {
+
+
+
+color:black;
+font-size:200%;
+}
+th {
+
+color:black;	
+font-size:250&;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+
+	
